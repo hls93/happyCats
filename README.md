@@ -1,2 +1,6 @@
 # happyCats
-Cats, they are happy 
+Cats, they are happy
+
+* Fig
+* Maggie
+* Butters
